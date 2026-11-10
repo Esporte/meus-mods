@@ -1,0 +1,7 @@
+{
+  "name": "mods-path-fix",
+  "version": "0.2.0",
+  "description": "Faz os mods acharem o claude no Windows: troca 'claude' pelo caminho completo do claude.exe.",
+  "license": "MIT",
+  "keywords": ["claude-code", "mod", "windows", "fix"]
+}

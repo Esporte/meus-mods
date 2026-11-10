@@ -1,0 +1,9 @@
+{
+  "name": "meus-mods",
+  "owner": { "name": "marcio" },
+  "metadata": { "description": "Mods locais: painel Mods com ON/OFF colorido e a correção do caminho do claude no Windows." },
+  "plugins": [
+    { "name": "mods-panel", "source": "./mods-panel", "description": "Painel /mods com ON verde e OFF vermelho (baseado no mods-manager)." },
+    { "name": "mods-path-fix", "source": "./mods-path-fix", "description": "Faz os mods acharem o claude.exe no Windows." }
+  ]
+}

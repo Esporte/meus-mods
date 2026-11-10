@@ -1,0 +1,20 @@
+{
+  "name": "mods-panel",
+  "version": "0.4.4-cores.1",
+  "description": "Painel para ver, ligar, desligar, instalar e agrupar em perfis os seus mods e plugins, com ON verde e OFF vermelho. Baseado no mods-manager de Chiara Costa.",
+  "author": {
+    "name": "Chiara Costa",
+    "url": "https://github.com/ptpmediabr"
+  },
+  "homepage": "https://github.com/ptpmediabr/mods-manager",
+  "repository": "https://github.com/ptpmediabr/mods-manager",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "plugins",
+    "manager",
+    "profiles"
+  ],
+  "types": "./types/index.d.ts"
+}
